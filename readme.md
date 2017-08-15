@@ -32,15 +32,20 @@
 
 
 ## Challenges
-- Getting comfy with Coffe Scipt
+- Getting comfy with Coffee Scipt
 - Learning Hubot framework
-- Bot making POST to database
+- Bot making POST to rails
+- Deployment
 - Styling
 
-## Looking ahead
+## Reach Goals
 - More ways to interact with the bot
 - Displayed top searches on React side
 - Easter eggs
 - More than just food?
 
 
+
+
+[Rails Repo](https://github.com/moralesl5/crunch-bot-backend)
+[React Repo](https://github.com/moralesl5/crunch-bot-frontend)

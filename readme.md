@@ -15,39 +15,32 @@
 ### Help
 ![Help](http://i.imgur.com/jLiTcG9.png)
 
-### User tailored
-![User Tailored](http://i.imgur.com/8Hkhmu8.png)
 
-## Proposed APIs
-- Google places or Yelp
+## APIs
+- Google geocoder
+- Zomato
 - Slack
 
 ## Technology
-- NodeJS
-- Node API
+- NodeJS (Hubot)
+- Coffee Script
+- Rails
+- React
 - Slack
-  - Slash Commands
-  - Outgoing WebHooks
 - External APIs
-  - Either Places or Yelp
-- Database to store user data
+  - Geocoder & Zomato
 
-## Timeline
-- Monday: Have a basic Slack App with response
-- Tuesday: External API calls
-- Wednesday: Tailor searches based on previous searches
-- Thursday: Help commands
-- Friday: More dynamic commands
-- Weekend: Easter eggs and reach goals
 
-## Foreseen Challenges
-- Integrating a database to store user data and act responsively to this data
-- Integrating external APIs for search functionality
-- Fun easter eggs
+## Challenges
+- Getting comfy with Coffe Scipt
+- Learning Hubot framework
+- Bot making POST to database
+- Styling
 
-## Reach Goals
-- Create React web interface
-- Deployable with any slack team
+## Looking ahead
+- More ways to interact with the bot
+- Displayed top searches on React side
+- Easter eggs
+- More than just food?
 
-## Repo
-[Link to my repo](https://github.com/moralesl5/CrunchBot)
+
